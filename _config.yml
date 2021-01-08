@@ -20,3 +20,5 @@ comments :
     repo : 
     owner : 
     admin : 
+
+theme: jekyll-theme-minimal
